@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "title": "Bridging the Gap: Active Transportation and Micromobility Connectivity in Orangeburg",
+  "layers": [
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 0,
+      "id": "candidate-infrastructure-gaps",
+      "name": "Candidate Infrastructure Gaps",
+      "bbox": [
+        -80.86530626839428,
+        33.488853975276946,
+        -80.84114575431124,
+        33.50381123695161
+      ],
+      "opacity": 1.0,
+      "image": "images/candidate-infrastructure-gaps.png",
+      "imageWidth": 4096,
+      "imageHeight": 3041
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 1,
+      "id": "corridor-priorities",
+      "name": "Corridor Priorities",
+      "bbox": [
+        -80.86539134062693,
+        33.486595381596786,
+        -80.84110321819489,
+        33.503834882750105
+      ],
+      "opacity": 1.0,
+      "image": "images/corridor-priorities.png",
+      "imageWidth": 4096,
+      "imageHeight": 3486
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 2,
+      "id": "boundary-review-19-crashes",
+      "name": "Boundary Review - 19 Crashes",
+      "bbox": [
+        -80.86538888999999,
+        33.486630559999995,
+        -80.84231943999998,
+        33.503725
+      ],
+      "opacity": 1.0,
+      "image": "images/boundary-review-19-crashes.png",
+      "imageWidth": 4096,
+      "imageHeight": 3640
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 3,
+      "id": "key-destinations",
+      "name": "Key Destinations",
+      "bbox": [
+        -80.86010186383612,
+        33.49161774460859,
+        -80.84954193098328,
+        33.49947909295492
+      ],
+      "opacity": 1.0,
+      "image": "images/key-destinations.png",
+      "imageWidth": 4096,
+      "imageHeight": 3657
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 4,
+      "id": "railroad-network",
+      "name": "Railroad Network",
+      "bbox": [
+        -80.8558817341243,
+        33.49338861864289,
+        -80.85557149868959,
+        33.49688826920178
+      ],
+      "opacity": 1.0,
+      "image": "images/railroad-network.png",
+      "imageWidth": 299,
+      "imageHeight": 4096
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 5,
+      "id": "study-area",
+      "name": "Study Area",
+      "bbox": [
+        -80.86640220979491,
+        33.486613644311156,
+        -80.84109007161712,
+        33.50381000069817
+      ],
+      "opacity": 1.0,
+      "image": "images/study-area.png",
+      "imageWidth": 4096,
+      "imageHeight": 3337
+    },
+    {
+      "type": "vector",
+      "renderMode": "image",
+      "order": 6,
+      "id": "10m-study-area-buffer",
+      "name": "10m Study Area Buffer",
+      "bbox": [
+        -80.86650975774867,
+        33.48652356339677,
+        -80.84098248852003,
+        33.50390016138864
+      ],
+      "opacity": 1.0,
+      "image": "images/10m-study-area-buffer.png",
+      "imageWidth": 4096,
+      "imageHeight": 3343
+    }
+  ],
+  "legend": "legend.json",
+  "story": "story.json"
+}

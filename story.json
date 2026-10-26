@@ -1,0 +1,98 @@
+{
+  "sections": [
+    {
+      "key": "intro",
+      "title": "Introduction",
+      "body": "This story map examines walking, cycling, and micromobility connections between South Carolina State University, Claflin University, Railroad Corner, and downtown Orangeburg. The assessment combines pedestrian and pedalcycle crash records, SCDOT traffic and speed data, and mapped candidate infrastructure gaps. Its purpose is to identify corridors for further engineering review, not to calculate individual crash risk or present completed designs.",
+      "center": null,
+      "zoom": 12
+    },
+    {
+      "key": "sec:c7cb0bf42b",
+      "title": "Problem Background",
+      "body": "The transportation concern is the suitability and continuity of routes between nearby destinations. Major streets, intersections, and the railroad may interrupt otherwise practical walking or cycling trips. A mapped footway does not establish sidewalk width, condition, accessibility, or continuity. Existing treatments and previously proposed projects must be checked before additional construction is recommended.",
+      "center": [
+        -80.8554334581755,
+        33.495243518448994
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:41b036501b",
+      "title": "Existing Conditions",
+      "body": "The study covers approximately 1.46 square kilometres around the university-to-downtown corridor. Existing mapped roads, rail lines, footways, and destination points provide the starting network picture. Three digitized candidate investigation lines measure about 757 m on Chestnut, 1,089 m on Magnolia, and 1,054 m on Russell. These are lengths of mapped candidate segments—not field-confirmed lengths of missing sidewalks. Chestnut already has a pedestrian bridge at SCSU; Railroad Corner also has a City pedestrian-crossing feasibility study.",
+      "center": [
+        -80.85559669742854,
+        33.49598250877483
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:ed588163eb",
+      "title": "Crash and Roadway Context",
+      "body": "The original study polygon contains 10 unique pedestrian- or pedalcycle-involved crashes recorded from 2015 through September 2026: eight pedestrian and two pedalcycle crashes. Nine resulted in injuries and one in property damage only; no fatal crash fell inside that boundary. A 10-metre outward buffer includes nine additional records, giving 19 total, including a January 2023 fatal crash at John C. Calhoun Drive/Broughton Street roughly 1.73 m outside the original polygon. This is a boundary-sensitivity check, not a claim of metre-level crash-location accuracy. The year 2026 is incomplete. Vehicle AADT is used as roadway context, not pedestrian or bicycle exposure.",
+      "center": [
+        -80.85466390169687,
+        33.495506055208175
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:0a6f67d15b",
+      "title": "Chestnut Street — Higher Screening Priority (9/9)",
+      "body": "The examined US 21/Chestnut Street segment carries about 17,600 vehicles per day and has a 45 mph posted speed limit. Three original-polygon crashes are associated with Chestnut. Its ordinal screening score is 9/9, based on crash associations, AADT, and speed. A pedestrian bridge already serves SCSU, and earlier SCDOT concepts included pedestrian and shared-use connections. The first step is to verify continuity and accessibility of existing bridge approaches and crossings; separated or shared-use connections and a parallel lower-stress route are alternatives for further study.",
+      "center": [
+        -80.84478792688769,
+        33.50199143275989
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:37a595a4e4",
+      "title": "John C. Calhoun Drive — Higher Screening Priority (8/9)",
+      "body": "The selected US 301/John C. Calhoun Drive segment carries about 18,100 vehicles per day and has a 35 mph posted limit. Four in-polygon crashes reference this corridor as an on-road or intersecting road. The screening score is 8/9. A 2023 fatal crash and a 2024 injury crash at or near Broughton Street plot just outside the original study boundary. Recommended next steps are to audit crossings, pedestrian signals, curb ramps, lighting, sight distance and turning movements; refuge or signal improvements require site-specific design checks.",
+      "center": [
+        -80.85856998382326,
+        33.48938485220132
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:8884761160",
+      "title": "Magnolia Street — Intermediate Screening Priority (5/9)",
+      "body": "Magnolia Street/US 21 Business carries about 12,400 vehicles per day on the assessed segment, with a 30 mph posted limit. The former 1,500 AADT figure belongs to Goff Avenue and must not be used for Magnolia. Two original-polygon crashes are associated with Magnolia, giving a score of 5/9. A 1.09 km mapped candidate gap line flags an investigation corridor, not a verified missing-sidewalk length. The main next steps are to examine crossing continuity and possible shared-use or separated connections, coordinated with Railroad Corner planning.",
+      "center": [
+        -80.85506033988278,
+        33.49836473727767
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:8cddf3c7d8",
+      "title": "Russell Street / Railroad Corner — Intermediate Screening Priority (5/9)",
+      "body": "The selected Russell Street/SC 33 sections carry approximately 3,800–5,100 vehicles per day and have posted speeds of 25–35 mph. Two original-polygon crashes are associated with Russell intersections. Its screening score is 5/9. A 1.05 km digitized candidate line and the rail crossing context identify an important university-to-downtown connection for closer evaluation. Improvements should address continuous access on both sides of any future Railroad Corner bridge, not treat a bridge as a complete route by itself.",
+      "center": [
+        -80.85573661678828,
+        33.49325501973848
+      ],
+      "zoom": 17
+    },
+    {
+      "key": "sec:ff9d8158e9",
+      "title": "Proposed Improvements",
+      "body": "The four corridors were compared using a transparent nine-point screening method: 0–3 points each for associated crashes, traffic volume, and posted speed. Scores are Chestnut 9/9, John C. Calhoun 8/9, Magnolia 5/9, and Russell/Railroad Corner 5/9. These thresholds are researcher-defined screening categories, not official engineering warrants or crash-risk probabilities. Possible treatments include accessible crossing upgrades, lighting, pedestrian signal treatments, physical separation or shared-use links where feasible, and connections to existing and planned infrastructure. Road width, crossings, accessibility, right-of-way, and actual facility condition require verification before design.",
+      "center": [
+        -80.85527021892246,
+        33.49520462404659
+      ],
+      "zoom": 16
+    },
+    {
+      "key": "sec:432bc7ece3",
+      "title": "Conclusion",
+      "body": "The evidence identifies Chestnut Street and John C. Calhoun Drive as higher-priority corridors for detailed engineering review, followed by Magnolia and Russell/Railroad Corner. The 10-versus-19 crash comparison shows how much the selected study boundary influences the safety picture. The project maps candidate connectivity concerns but does not establish a complete sidewalk inventory, pedestrian/bicycle exposure, scooter-specific crash rates, treatment costs, or final designs. The next stage should verify facilities and coordinate feasible improvements with existing City and SCDOT initiatives.",
+      "center": null,
+      "zoom": 12
+    }
+  ]
+}

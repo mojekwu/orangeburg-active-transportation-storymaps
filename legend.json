@@ -1,0 +1,46 @@
+{
+  "layers": [
+    {
+      "id": "candidate-infrastructure-gaps",
+      "name": "Candidate Infrastructure Gaps",
+      "type": "vector",
+      "sld": "sld/candidate-infrastructure-gaps.sld"
+    },
+    {
+      "id": "corridor-priorities",
+      "name": "Corridor Priorities",
+      "type": "vector",
+      "sld": "sld/corridor-priorities.sld"
+    },
+    {
+      "id": "boundary-review-19-crashes",
+      "name": "Boundary Review - 19 Crashes",
+      "type": "vector",
+      "sld": "sld/boundary-review-19-crashes.sld"
+    },
+    {
+      "id": "key-destinations",
+      "name": "Key Destinations",
+      "type": "vector",
+      "sld": "sld/key-destinations.sld"
+    },
+    {
+      "id": "railroad-network",
+      "name": "Railroad Network",
+      "type": "vector",
+      "sld": "sld/railroad-network.sld"
+    },
+    {
+      "id": "study-area",
+      "name": "Study Area",
+      "type": "vector",
+      "sld": "sld/study-area.sld"
+    },
+    {
+      "id": "10m-study-area-buffer",
+      "name": "10m Study Area Buffer",
+      "type": "vector",
+      "sld": "sld/10m-study-area-buffer.sld"
+    }
+  ]
+}
